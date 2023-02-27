@@ -616,7 +616,7 @@ input[type="submit"]:hover {
     font-weight: 700;
     line-height: 32px;
     color: #FFFFFF;
-    margin-left: 0 auto;
+    margin-left:  auto;
     margin-bottom: 57px;
 }
 
